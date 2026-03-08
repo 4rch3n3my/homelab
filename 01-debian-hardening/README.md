@@ -8,7 +8,6 @@ Objectif : déployer une VM Debian 12 from scratch et la durcir selon les bonnes
 ## 🏗️ Architecture du lab
 
 ```
-Hôte : Kali Linux (bare metal)
 Virtualisation : KVM / QEMU / virt-manager
 
 VM : debian-lab
